@@ -5,4 +5,4 @@
 
 # 子站目录
   1. [极域杀手合集](https://html5syt.github.io/kill-mythware)
-  2. ---
+  2. [html5syt-Blog](https://html5syt.oggx.cn)
