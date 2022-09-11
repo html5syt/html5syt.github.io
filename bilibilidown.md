@@ -8,4 +8,4 @@
   3. downkyi-绿色EXE文件，网上有下载
   4. 硕鼠-信息老师推荐
   5. [ouotool.com](https://ouotool.com/b)
-  6. [xbeibiex.com](https://xbeibiex.com/api/bilibili)
+  6. ～～[xbeibiex.com](https://xbeibiex.com/api/bilibili)～～
