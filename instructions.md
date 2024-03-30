@@ -13,7 +13,72 @@
 <details>
 <summary style="color: red">点击查看目录</summary>
 
+<ul>
+  <li><a href="#1-%E5%85%B3%E4%BA%8E%E7%A4%BE%E5%8C%BA">1. 关于社区</a>
+    <ul>
+      <li><a href="#11-%E7%A4%BE%E5%8C%BA%E7%AE%80%E4%BB%8B">1.1 社区简介</a></li>
+      <li><a href="#12-%E5%BB%BA%E9%80%A0%E5%8A%A8%E6%9C%BA">1.2 建造动机</a></li>
+      <li><a href="#13-%E5%88%86%E5%8C%BA%E7%94%A8%E6%88%B7%E7%BB%84">1.3 分区&amp;用户组</a>
+        <ul>
+          <li><a href="#131-%E5%88%86%E5%8C%BA">1.3.1 分区</a></li>
+          <li><a href="#132-%E7%94%A8%E6%88%B7%E7%BB%84">1.3.2 用户组</a></li>
+        </ul>
+      </li>
+      <li><a href="#14-%E7%A4%BE%E5%8C%BA%E5%8F%91%E5%B1%95%E7%9B%AE%E6%A0%87">1.4 社区发展目标</a></li>
+      <li><a href="#15-%E7%A4%BE%E5%8C%BA%E8%B4%B9%E7%94%A8%E4%B8%80%E8%A7%88%E6%8D%90%E5%8A%A9%E8%AE%A1%E5%88%92%E6%9C%AA%E5%BC%80%E6%94%BE">1.5 社区费用一览&amp;捐助计划（未开放）</a></li>
+      <li><a href="#16-%E7%A4%BE%E5%8C%BA%E6%9C%AA%E6%9D%A5%E5%8F%91%E5%B1%95to-do-list">1.6 社区未来发展(TO-DO List)</a></li>
+      <li><a href="#17-%E7%A4%BE%E5%8C%BA%E5%9B%BE%E6%A0%87%E6%9D%A5%E8%87%AAphigros">1.7 社区图标来自Phigros</a></li>
+    </ul>
+  </li>
+  <li><a href="#2-%E5%9F%BA%E6%9C%AC%E5%8A%9F%E8%83%BD%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E">2. 基本功能使用说明</a>
+    <ul>
+      <li><a href="#21-%E6%B3%A8%E5%86%8C%E7%99%BB%E5%BD%95%E6%96%B0%E7%94%A8%E6%88%B7%E7%9C%8B%E8%BF%99">2.1 注册&amp;登录(新用户看这！)</a></li>
+      <li><a href="#22-%E4%B8%BB%E7%95%8C%E9%9D%A2">2.2 主界面</a></li>
+      <li><a href="#23-%E5%8F%91%E5%B8%96%E9%A1%B5">2.3 发帖页</a></li>
+      <li><a href="#24-%E5%B8%96%E5%AD%90%E9%A1%B5">2.4 帖子页</a></li>
+      <li><a href="#25-%E5%B0%8F%E9%BB%91%E5%B1%8B">2.5 小黑屋</a></li>
+      <li><a href="#26-%E4%B8%AA%E4%BA%BA%E8%AE%BE%E7%BD%AE">2.6 个人设置</a></li>
+    </ul>
+  </li>
+  <li><a href="#3-%E9%AB%98%E7%BA%A7%E5%8A%9F%E8%83%BD%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E">3. 高级功能使用说明</a>
+    <ul>
+      <li><a href="#31-%E7%A7%81%E5%AF%86%E4%B8%BB%E9%A2%98">3.1 私密主题</a>
+        <ul>
+          <li><a href="#311%E4%BB%80%E4%B9%88%E6%98%AF%E7%A7%81%E5%AF%86%E4%B8%BB%E9%A2%98">3.1.1什么是私密主题？</a></li>
+          <li><a href="#312-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8">3.1.2 如何使用？</a></li>
+        </ul>
+      </li>
+      <li><a href="#32-%E6%96%87%E4%BB%B6%E7%85%A7%E7%89%87%E4%B8%8A%E4%BC%A0">3.2 文件/照片上传</a>
+        <ul>
+          <li><a href="#321-%E4%BB%8B%E7%BB%8D%E5%AE%9A%E4%BB%B7">3.2.1 介绍&amp;定价</a></li>
+          <li><a href="#322-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8">3.2.2 如何使用</a></li>
+          <li><a href="#323-%E5%A4%87%E7%94%A8%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E6%96%B9%E6%A1%88%E5%9B%BE%E5%BA%8A">3.2.3 备用图片上传方案：图床</a></li>
+          <li><a href="#%E9%99%84%E5%A6%82%E4%BD%95%E4%BB%8E%E5%BE%AE%E4%BF%A1%E9%87%8C%E8%BD%AC%E5%AD%98%E8%87%AA%E5%AE%9A%E4%B9%89%E8%A1%A8%E6%83%85%E5%8C%85">附：如何从微信里转存自定义表情包</a></li>
+        </ul>
+      </li>
+      <li><a href="#33-%E5%B0%86%E7%A4%BE%E5%8C%BA%E5%AE%89%E8%A3%85%E4%B8%BA%E5%BA%94%E7%94%A8pwa">3.3 将社区安装为应用（PWA）</a>
+        <ul>
+          <li><a href="#331-%E4%BB%8B%E7%BB%8D">3.3.1 介绍</a></li>
+          <li><a href="#332-%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85">3.3.2 如何安装？</a>
+            <ul>
+              <li><a href="#3321-%E7%94%B5%E8%84%91">3.3.2.1 电脑</a></li>
+              <li><a href="#3322-%E6%89%8B%E6%9C%BA">3.3.2.2 手机</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="#4-%E6%8A%80%E6%9C%AF%E4%BF%A1%E6%81%AF">4. 技术信息</a>
+    <ul>
+      <li><a href="#41-%E7%A4%BE%E5%8C%BA%E8%AE%BF%E9%97%AE%E6%B5%81%E7%A8%8B%E5%9B%BE">4.1 社区访问流程图</a></li>
+    </ul>
+  </li>
+  <li><a href="#%E6%9C%80%E5%90%8E">最后</a></li>
+</ul>
+
 </details>
+
 
 - [1. 关于社区](#1-%E5%85%B3%E4%BA%8E%E7%A4%BE%E5%8C%BA)
 	- [1.1 社区简介](#11-%E7%A4%BE%E5%8C%BA%E7%AE%80%E4%BB%8B)
@@ -88,7 +153,7 @@
 ## 1.5 社区费用一览&捐助计划（未开放）
 相信大家也看到了，社区目前访问速度有时会特别的慢，这都是因为我的资金不足而无法使用过多的付费服务。这是目前社区使用的所有服务项目：
 1. bravely.pp.ua域名：10元1个，续期免费。
-2. CloudFlare R2存储桶：付费，转到介绍：link
+2. CloudFlare R2存储桶：付费，转到介绍：[3.2.1 介绍&定价](#321-%E4%BB%8B%E7%BB%8D%E5%AE%9A%E4%BB%B7)
 3. Cloudflare：CDN等安全功能，免费。
 4. Recaptcha：Google提供的人机验证服务，免费。
 5. 社区主服务器：FreeFlarum，免费。
@@ -157,7 +222,7 @@
 ![pFnxoZ9.jpg](https://s11.ax1x.com/2024/01/27/pFnxoZ9.jpg)
 
 功能区详解，放大了看。**建议使用富文本，可以直观的编辑帖子，部分兼容原来的Markdown纯文本模式**。
-*现增加文件上传功能，在富文本按钮前面，具体参考后文link。*
+*现增加文件上传功能，在富文本按钮前面，具体参考后文[3.2 文件/照片上传](#32-%E6%96%87%E4%BB%B6%E7%85%A7%E7%89%87%E4%B8%8A%E4%BC%A0)。*
 
 ![po主Fnx2GV.jpg](https://s11.ax1x.com/2024/01/27/pFnx2GV.jpg)
 
