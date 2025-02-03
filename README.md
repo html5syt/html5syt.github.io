@@ -1,5 +1,5 @@
 # html5syt.github.io
-*by Tim史宇涛*
+*by Tim*
 
 [GitHub地址](https://github.com/html5syt)
 
