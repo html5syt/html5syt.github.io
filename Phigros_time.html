@@ -254,7 +254,7 @@
           const roomUrl = newApiData.data.url;
           
           // 更新在线人数
-          onlineCountElement.textContent = `当前直播间总观看人次：${onlineCount.toLocaleString()}`;
+          onlineCountElement.textContent = `当前直播间总观看人次（热度）：${onlineCount.toLocaleString()}`;
           onlineCountElement.classList.remove('loading');
           
           // 更新直播标题和网页标题
@@ -268,7 +268,7 @@
             liveLinkElement.href = roomUrl;
           }
         } else {
-          onlineCountElement.textContent = "当前直播间总观看人次：数据获取失败";
+          onlineCountElement.textContent = "当前直播间总观看人次（热度）：数据获取失败";
         }
         
         // 处理原接口数据
