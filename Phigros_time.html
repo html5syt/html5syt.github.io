@@ -179,6 +179,18 @@
     // 倒计时功能
     function getTimeRemaining(endtime) {  
       const total = Date.parse(endtime) - Date.now();  
+      
+      // 如果倒计时已经结束，返回0值
+      if (total <= 0) {
+        return {
+          'total': 0,  
+          'days': 0,  
+          'hours': 0,  
+          'minutes': 0,  
+          'seconds': 0  
+        };
+      }
+      
       const seconds = Math.floor((total / 1000) % 60);  
       const minutes = Math.floor((total / (1000 * 60)) % 60);  
       const hours = Math.floor((total / (1000 * 60 * 60)) % 24);  
@@ -198,18 +210,20 @@
       countdownTimer = setInterval(function() {  
         const t = getTimeRemaining(endtime);  
         
-        // 时间格式：天 时:分:秒  
-        countdownElement.textContent = t.days + "天 " +  
-          ("0" + t.hours).slice(-2) + ":" +  
-          ("0" + t.minutes).slice(-2) + ":" +  
-          ("0" + t.seconds).slice(-2);  
-        
         if (t.total <= 0) {  
           clearInterval(countdownTimer);
           countdownEnded = true;
+          countdownElement.textContent = "倒计时结束";
+          countdownElement.style.color = "#ff8a00";
           // 倒计时结束后立即检查一次直播状态
           fetchLiveInfo();
-        }  
+        } else {
+          // 时间格式：天 时:分:秒  
+          countdownElement.textContent = t.days + "天 " +  
+            ("0" + t.hours).slice(-2) + ":" +  
+            ("0" + t.minutes).slice(-2) + ":" +  
+            ("0" + t.seconds).slice(-2);  
+        }
       }, 1000);  
     }  
     
